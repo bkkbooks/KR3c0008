@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3c0008/WYG/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 棠隂比事附録
+  hash: sha256:6504997176b3bc2941b21730f2329a76e2ccf997b1370b327d3fbd36a18cabb6
+metadata:
+  title: 棠陰比事
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 00:16:17.451753'
+  source:
+    repository: kanripo
+    path: KR3c0008/KR3c0008_003.txt
+hash: sha256:51e5747e6552a212fc04afb8f46ee9ad5154858a8803839497a76df1bd370523
